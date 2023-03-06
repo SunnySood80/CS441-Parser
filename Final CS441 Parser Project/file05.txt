@@ -1,4 +1,0 @@
-read A 
-read B 
-write A + B 
-$$
