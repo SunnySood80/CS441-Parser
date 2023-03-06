@@ -1,0 +1,1 @@
+EX: (parse "/Users/guest/Desktop/CS441/file01.txt")
