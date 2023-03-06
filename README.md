@@ -4,7 +4,7 @@ HOW TO USE: (parse "file path")
 
 EX: (parse "/Users/guest/Desktop/CS441/file01.txt")
 
-The parser will output an error and it's line number or accept it
+The parser will output an error and it's line number or an accept
 
 
 DISCLAIMER: For some reason, Dr. Racket butchered all of my formatting somehow while I was saving. Thus, the code has no formatting or newlines. 
