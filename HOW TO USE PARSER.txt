@@ -1,1 +1,1 @@
-EX: (parse "\Users\Guest\Desktop\CS441\file03.txt")
+EX: (parse "/Users/Guest/Desktop/CS441/file03.txt")
