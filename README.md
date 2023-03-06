@@ -2,7 +2,7 @@
 
 HOW TO USE: (parse "file path")
 
-EX: (parse "/Users/guest/Desktop/CS441/file01.txt")
+EX: (parse "\Users\guest\Desktop\CS441\file01.txt")
 
 The parser will output an error and it's line number or an accept
 
